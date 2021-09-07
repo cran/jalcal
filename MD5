@@ -1,0 +1,10 @@
+b883fc5c3bafa04a36a52813a1c81349 *DESCRIPTION
+1eaee3ae2ccc314f20ae700bf8b1b251 *NAMESPACE
+efab879b8f36f0fcbbadc2c9ee8f91a0 *R/greg2jal.R
+ca85000e6df58143e5807b2d88c465f7 *R/isLeap.R
+ab5361d4e38c37e2e5f8ea002e19e9cd *R/jal2greg.R
+6b5b44377b00f4f9570ff14470ce044b *README.md
+64c040e72cb2dc0ae80d34e5ee55cff6 *man/greg2jal.Rd
+a6a629a5ea08d955a95c7227844649c2 *man/greg2jal0.Rd
+d0c454920deab113f10875e1c527657c *man/isLeap.Rd
+9e14f222e655997c7b1caa1ab74a9364 *man/jal2greg.Rd
